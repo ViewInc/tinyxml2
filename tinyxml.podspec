@@ -7,7 +7,6 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
   s.homepage         = "git@github.com:ViewInc/tinyxml2.git"
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'papiguy' => 'nitin.khanna@viewglass.com' }
   s.source           = { :git => 'git@github.com:ViewInc/tinyxml2.git', :tag => s.version.to_s }
 
